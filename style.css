@@ -190,10 +190,10 @@ body {
     body {
         overflow-x: hidden;
         height: max-content;
-        padding-top: 100px;
     }
 
     .container {
+        margin: 30px 0;
         max-width: 500px;
         min-width: 320px;
         flex-direction: column;
